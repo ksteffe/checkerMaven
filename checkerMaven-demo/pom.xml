@@ -11,9 +11,12 @@
   <artifactId>checkerMaven-demo</artifactId>
 
   <dependencies>
+
     <dependency>
       <groupId>myqual.sample</groupId>
       <artifactId>checkerMaven-annotations</artifactId>
     </dependency>
+
   </dependencies>
+
 </project>

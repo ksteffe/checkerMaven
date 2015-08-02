@@ -1,4 +1,0 @@
--processor org.checkerframework.common.subtyping.SubtypingChecker
--Aquals=myqual.sample.annotations.Id,org.checkerframework.framework.qual.Unqualified
--Alint
--AprintErrorStack
